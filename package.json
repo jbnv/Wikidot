@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jbnv/Wikidot/issues"
   },
-  "homepage": "https://github.com/jbnv/Wikidot"
+  "homepage": "https://github.com/jbnv/Wikidot",
+  "dependencies": {
+    "xmlrpc": "^1.3.2"
+  }
 }
